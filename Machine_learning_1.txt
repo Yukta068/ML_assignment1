@@ -1,0 +1,97 @@
+Que 1: Explain with example:
+
+1. Artificial Intelligence- Artificial intelligence is a smart application that can perform its own task without any human                               intervention . example self driven cars.
+
+2. Machine learning- Machine learning provides a stattool to analyse,visualize,create predictive models and forecasting .
+                     example is the recommdation that we see on Amazon and Netflix .
+                     
+3. Deep learning - Deep learning a part of machine learning that teaches computer to think like a human that is mimic the                        human brain . example face detection ,  image recogniation .
+
+
+Que 2 : Supervised learning :
+                            A type of machine learning in which the output feature in dependent on the input features,
+                            The aim is to map a function from input producing the output based on it . 
+                            It can be used to find out price of house , recognition of gender .
+                            
+                            There are two types of Supervised learning:-
+                            
+                            1. Classification : THis is used when output feature is a categorical data  for example it can 
+                                                either yes or No , male or female etc.
+                            2. Regression : In regression the output feature can has a continuous value . 
+                                            example finding price of house which is dependent on plot area and 
+                                            number of rooms . 
+
+Que 3 : Unsupervised learning :
+                               In unsupervised learning we group data on basis of similarities . There is no output 
+                               corresponding to the input data . It is used for finding meaningful insights from the dataset 
+                               It is used in anomaly detection , Neural Networks etc. It is also used for customer 
+                               segmentation .
+                               It is of two types : Clustering  and Association .
+                             
+                             
+Que 4 : DIfference btw AI ML DS and DL . 
+                                        Artificial intelligence is application that can perfrom its own task with human                                             interference.AI is the broader family consisting of ML and DL as it’s components.
+                                        
+                                        ML machine learning provides stat tool to analyze visualize and create predictive                                           models .ML is a subset of AI that focuses on developing algorithms that can learn                                           from data and improve their performance over time.
+                                        
+                                        DL deep learning a part of machine learning that teaches computer to think like a                                           human that is mimic the human brain . example face detection ,  image recogniation .
+                                        DL is a subset of ML that focuses on developing deep neural networks that can                                               automatically learn and practice features from data.
+                                        
+                                        DS Data science is a combination of AI DL and ML it comprises of use of
+                                        statistic probability machine learling deep learning to handle and finf helpful 
+                                        insights from any dataset .
+                                        
+                                        
+ Que 5 : Difference btw supervised un supervised and semi supervised . 
+                                         in supervised we have output dependent on input . The output can be categorical or 
+                                         continuous value .
+                                         in unsupervised there is no output but grouping of data on based of smimilarities
+                                         and is used to get information about data . 
+                                         semi supervised id combination of supervised and un supervised. 
+
+Que 6 : Test train and validation set :
+
+the dataset that we use to train our model with to help it learn the pattern the function and perform it later on with different dataset is called training dataset . 
+Validation dataset is used for training the model for different values of input it can be for outliers to an cgeck the accuracy of model . It is the hyper tuning of the model .
+the final check of efficiency and accuracy of model is done by testing dataset which tests the model with diffenet values.
+
+Train - high accuracy 95%   :-    Low bias High variance  OVERFITTING 
+Test -  low accuracy 60%
+
+Train - low accuracy 55%     :-  high bias High variance     UNDERFITTING
+Test -  low accuracy 50%
+
+Train - high accuracy 95%    :-   Low bias low variance      GENERALISED MODEL
+Test -  high accuracy 90%
+
+
+Que 7 . How unsupervised learning can be used for anomaly detection .
+
+Anomaly detection is a process of finding those rare items, data points, events, or observations that make suspicions by being different from the rest data points or observations. Anomaly detection is also known as outlier detection.
+data clusters of similar data points that occur frequently are assumed to be normal traffic, and those data groups that are infrequent are considered abnormal or malicious.
+
+Que 8 . Supervised learning algo :-
+
+Regression :
+Linear Regression
+Regression Trees
+Non-Linear Regression
+Bayesian Linear Regression
+Polynomial Regression
+
+Categorical :-
+Random Forest
+Decision Trees
+Logistic Regression
+Support vector Machines
+
+Unsupervised :-
+K-means clustering
+KNN (k-nearest neighbors)
+Hierarchal clustering
+Anomaly detection
+Neural Networks
+Principle Component Analysis
+Independent Component Analysis
+Apriori algorithm
+Singular value decomposition
